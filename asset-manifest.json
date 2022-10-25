@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fullstack-decal-fa22/hw4-wongjt22/static/css/main.b6832693.css",
-    "main.js": "/fullstack-decal-fa22/hw4-wongjt22/static/js/main.450a3135.js",
-    "static/js/787.263e14e4.chunk.js": "/fullstack-decal-fa22/hw4-wongjt22/static/js/787.263e14e4.chunk.js",
-    "index.html": "/fullstack-decal-fa22/hw4-wongjt22/index.html",
-    "main.b6832693.css.map": "/fullstack-decal-fa22/hw4-wongjt22/static/css/main.b6832693.css.map",
-    "main.450a3135.js.map": "/fullstack-decal-fa22/hw4-wongjt22/static/js/main.450a3135.js.map",
-    "787.263e14e4.chunk.js.map": "/fullstack-decal-fa22/hw4-wongjt22/static/js/787.263e14e4.chunk.js.map"
+    "main.css": "/static/css/main.b6832693.css",
+    "main.js": "/static/js/main.7fdba4a9.js",
+    "static/js/787.263e14e4.chunk.js": "/static/js/787.263e14e4.chunk.js",
+    "index.html": "/index.html",
+    "main.b6832693.css.map": "/static/css/main.b6832693.css.map",
+    "main.7fdba4a9.js.map": "/static/js/main.7fdba4a9.js.map",
+    "787.263e14e4.chunk.js.map": "/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.450a3135.js"
+    "static/js/main.7fdba4a9.js"
   ]
 }
